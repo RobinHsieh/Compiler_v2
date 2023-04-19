@@ -6,7 +6,7 @@
 #endif
 
 
-//only global(accessible) on main.cpp
+//only global and accessible on main.cpp
 static char streams[SIZE] = {'\0'};
 static char input[SIZE];
 
